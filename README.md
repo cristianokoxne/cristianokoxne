@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-Sou um desenvolvedor fullstack apaixonado por tecnologia, automação e soluções criativas. Trabalho com frontend, backend, infraestrutura e também me aventuro em blockchain e inteligência artificial. Versatilidade é meu lema: do código ao deploy, eu cuido de tudo.
+Sou um desenvolvedor fullstack apaixonado por tecnologia, automação e soluções criativas. Trabalho com frontend, backend, infraestrutura e também me aventuro em blockchain e inteligência artificial.
 
 ---
 
@@ -51,14 +51,7 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia, automação e soluçõ
 
 ---
 
-### 🧪 Projetos em Destaque
 
-- 🔗 [**FastSheetAPI**](https://github.com/seu-usuario/fastsheetapi) – Transforme o Google Sheets em uma API com autenticação e deploy com Docker
-- 💬 [**Conector Markchat**](https://github.com/seu-usuario/conector-looker-studio-v2) – Integração inteligente com atendimento de clientes usando NLP
-- 💸 [**Cashback Web3**](https://github.com/seu-usuario/web3-cashback) – Sistema de cashback descentralizado com Solidity
-- 📊 [**Painel Streamlit + Flask**](https://github.com/seu-usuario/streamlit-flask-dashboard) – Painel inteligente com API integrada e NLP
-
----
 
 ### 📫 Vamos conversar?
 
