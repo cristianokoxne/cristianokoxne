@@ -25,11 +25,11 @@ Atualmente focado em construir ferramentas úteis, conectores inteligentes e sol
 #### ⚙️ DevOps & Infraestrutura
 - Docker, Docker Compose, Kubernetes  
 - Linux, GitHub Actions, CI/CD  
-- Cloud: Google Cloud, Vercel, Render
+- Cloud: Google Cloud, Vercel, AWS
 
 #### 📦 APIs & Integrações
-- RESTful APIs, Webhooks, OAuth2  
-- Google Sheets API, OpenAI API, SZ.chat, Mercado Pago
+- RESTful APIs, GraphQL, Websockets,  Webhooks, OAuth2  
+- Strapi, OpenAI API, SZ.chat, Mercado Pago, Salesforce, DeskManager, entre muitas mas muitas outras...
 
 #### 🔐 Web3
 - Solidity, Smart Contracts, Ethereum  
